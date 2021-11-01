@@ -8,10 +8,13 @@ Ans: 233168
 
 using namespace std;
 
-
-
 ll euler1(ll n) {
-    
+    ll res = 0;
+    for (ll i = 0; i < n; ++i) {
+        res += ((i % 5 == 0) || (i % 3 == 0)) ? i : 0;
+    }
+
+    return res;
 }
 
 int main() {
