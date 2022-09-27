@@ -1,6 +1,8 @@
 /*
 https://projecteuler.net/problem=6
 
+Sum square difference
+
 Ans: 25164150
 */
 #include <iostream>

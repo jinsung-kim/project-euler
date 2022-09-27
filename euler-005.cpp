@@ -1,6 +1,8 @@
 /*
 https://projecteuler.net/problem=5
 
+Smallest multiple
+
 Ans: 232792560
 */
 #include <iostream>

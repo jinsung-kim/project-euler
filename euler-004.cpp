@@ -1,6 +1,8 @@
 /*
 https://projecteuler.net/problem=4
 
+Largest palindrome product
+
 Ans: 906609
 */
 #include <iostream>
