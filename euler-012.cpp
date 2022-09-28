@@ -15,7 +15,7 @@ Ans: 76576500
 #define BEGIN clock_t begin = clock();
 #define END                \
     clock_t end = clock(); \
-    cout << "Execucion time: " << (long double)(end - begin) / CLOCKS_PER_SEC << " ms\n";
+    cout << "Execution time: " << (long double)(end - begin) / CLOCKS_PER_SEC << " ms\n";
 
 using namespace std;
 
